@@ -1,0 +1,50 @@
+*{
+    margin:0;
+    padding: 0;
+    box-sizing:border-box;
+    overflow: hidden; 
+    background-color:#62374e;
+}
+.quadrado{
+    background-color:#fdc57b ;
+    position: absolute;
+    width: 100px;
+    height: 100px;
+    margin-left: 8%;
+    margin-top: 5%;
+}
+.quadrado2{
+    background-color:#fdc57b ;
+    position: absolute;
+    width: 100px;
+    height: 100px;
+    top: 0;
+    right: 0;
+    margin-right: 8%;
+    margin-top: 5%;
+
+}
+.quadrado3{
+    background-color:#fdc57b ;
+    position: absolute;
+    width: 100px;
+    height: 100px;
+    bottom: 0;
+    left: 0;
+    margin-left: 8%;
+    margin-bottom: 5%;
+
+
+}
+.quadrado4{
+    background-color:#fdc57b ;
+    position: absolute;
+    width: 100px;
+    height: 100px;
+    bottom: 0;
+    right: 0;
+    margin-right: 8%;
+    margin-bottom: 5%;
+
+
+}
