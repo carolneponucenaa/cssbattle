@@ -5,6 +5,8 @@
     overflow: hidden; 
     background-color:#62374e;
 }
+/* Foi definida a cor do site, com um padrão de css; */
+
 .quadrado{
     background-color:#fdc57b ;
     position: absolute;
@@ -13,6 +15,7 @@
     margin-left: 8%;
     margin-top: 5%;
 }
+/* Definindo a cor do quadrado e suas posições */
 .quadrado2{
     background-color:#fdc57b ;
     position: absolute;
@@ -34,8 +37,9 @@
     margin-left: 8%;
     margin-bottom: 5%;
 
-
 }
+
+/* Fui utilizando os mesmos comandos, mas alterando suas porcentagens, px e etc ... */
 .quadrado4{
     background-color:#fdc57b ;
     position: absolute;

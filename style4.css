@@ -1,79 +1,42 @@
 *{
-    margin:0;
-    padding: 0;
-    box-sizing:border-box;
-    overflow: hidden; 
-    background-color:#62306D;
-}
-.quadrado{
-    background-color:#F7EC7D ;
-    position: absolute;
-    width: 100px;
-    height: 100px;
-    margin-left: 30%;
-    margin-top: 15%;
-}
-.quadrado2{
-    background-color:#F7EC7D;
-    position: absolute;
-    width: 100px;
-    height: 100px;
-    top: 0;
-    right: 0;
-    margin-right: 60%;
-    margin-top: 15%;
-
-}
-.quadrado3{
-    background-color:#F7EC7D ;
-    position: absolute;
-    width: 100px;
-    height: 100px;
-    bottom: 0;
-    left: 0;
-    margin-left: 40%;
-    margin-bottom:449px ;
-
-
-}
-.quadrado4{
-    background-color:#F7EC7D ;
-    position: absolute;
-    width: 100px;
-    height: 100px;
-    bottom: 0;
-    right: 0;
-    margin-right: 1152px;
-    margin-bottom: 449px;
-
-
-}
-.quadrado5{
-    background-color:#F7EC7D ;
-    position: center;
-    width: 100px;
-    height: 100px;
-    bottom: 0;
-    right: 0;
-    margin-left: 40%;
-    margin-top: 15%;
-
-}
-.quadrado6{
-    background-color:#F7EC7D ;
-    position: absolute;
-    width: 100px;
-    height: 100px;
-    margin-left: 30%;
-    margin-bottom: 10%;
-
-}
-.circulo{
-    background-color:#F7EC7D ;
-    position: absolute;
-    width: 100px;
-    height: 100px;
-   border-radius: 50%;
-   top: 250px;
-   left: 650px;
-}
+        margin: 0;
+        padding: 0;
+        box-sizing: border-box;
+    }
+    
+    body{
+        background-color: #62306D;
+    }
+    
+    .quadrado-1{
+        width: 225px;
+        height: 225px;
+        top: 475px;
+        left: 625px;
+        position: absolute;
+        background-color: #F7EC7D;
+        border-end-end-radius: 50%;
+        border-end-start-radius: 50%;
+    }
+    
+    .quadrado-2{
+        width: 225px;
+        height: 225px;
+        top: 250px;
+        left: 850px;
+        position: absolute;
+        background-color: #F7EC7D;
+        border-start-start-radius: 50%;
+        border-start-end-radius: 50%;
+    }
+    
+    .quadrado-3{
+        width: 225px;
+        height: 225px;
+        top: 475px;
+        left: 1075px;
+        position: absolute;
+        background-color: #F7EC7D;
+        border-end-end-radius: 50%;
+        border-end-start-radius: 50%;
+    }
